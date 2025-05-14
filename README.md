@@ -1,1 +1,1 @@
-# Substring-comparison
+This Java program finds the lexicographically smallest and largest substrings of a given string s, where each substring is of length k. It demonstrates string manipulation and comparison in Java using basic methods such as substring() and compareTo().
